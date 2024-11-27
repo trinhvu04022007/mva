@@ -1,5 +1,5 @@
 # mva
-<!DOCTYPE html >
+
 <html>
   <head>
   <meta name="google-site-verification" content="l1SFslDzLvCPAOglJsuOGh8YaXYZBPLqlBLsOlGwmPQ" />
@@ -44,5 +44,4 @@
 	<p style="color:silver;font-family:fantasy;font-size:25px">Chúng tôi luôn sẵn sàng hỗ trợ bạn! Hãy liên hệ ngay để được tư vấn và nhận báo giá chi tiết.</p>
 	<p style="color:teal;font-family:cursive;font-size:30px">Cửa hàng In & Photo Việt Anh – Đồng hành cùng sự chuyên nghiệp của bạn!
 	</p>
-  </body>
-</html>
+ 
